@@ -246,6 +246,6 @@ elif selected == "About":
                 <li>📊 <b>Dashboard Tab</b>: Analyze input influence and download insights.</li>
                 <li>🛠️ Features include derived metrics and season/day-based logic.</li>
             </ul>
-            <p style="margin-top:1em;">Crafted with ❤️ using Streamlit and Plotly by Sai Pranavi Ptel.</p>
+            <p style="margin-top:1em;">Crafted with ❤️ using Streamlit and Plotly by Banda Sai Pranavi Patel.</p>
         </div>
     """, unsafe_allow_html=True)
