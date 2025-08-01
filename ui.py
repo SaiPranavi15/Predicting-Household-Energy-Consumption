@@ -56,8 +56,8 @@ with st.sidebar:
 
 # 📦 Load both models
 models = {
-    "Random Forest": joblib.load("E:\energy consumption\Random_forest_model (2).pkl"),
-    "Linear Regression": joblib.load("E:\energy consumption\Linear-model.pkl")
+    "Random Forest": joblib.load("Random_forest_model (2).pkl"),
+    "Linear Regression": joblib.load("Linear-model.pkl")
 }
 
 # 🔧 Expected input features
